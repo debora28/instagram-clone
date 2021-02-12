@@ -1,3 +1,4 @@
 # instagram-clone
 Digital Innovation One
-Recriando a tela do Instagram
+
+- Recriando a tela inicial do Instagram
